@@ -19,11 +19,11 @@ I'm always eager to collaborate on innovative projects and explore new technolog
 
 ## GitHub Stats
 
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BUSY-LOOPING&show_icons=true&theme=radical)
+![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BUSY-LOOPING&show_icons=true&theme=radical&count_private=true)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BUSY-LOOPING&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BUSY-LOOPING&layout=compact&theme=radical&count_private=true)
 
 ## Notable Projects
 
